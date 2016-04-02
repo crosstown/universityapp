@@ -1,0 +1,13 @@
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form2.resources
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+c:\users\clone\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form3.resources
+C:\Users\Clone\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form4.resources
+C:\Users\Clone\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form5.resources
